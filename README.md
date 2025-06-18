@@ -1,2 +1,1 @@
-# CodeAlphaTask1
-This is Ecommerce database system ..
+# This is Ecommerce database system ..
